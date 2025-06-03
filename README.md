@@ -5,7 +5,7 @@ This code showcases the Melissa Cloud API NuGet Package using C#.
 
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For more details about how to use the Melissa Cloud API NuGet Package, please visit the [Melissa Docs](https://docs.melissa.com/cloud-api/cloud-api-packages/cloud-api-packages-installation.html).
+For more details about how to use the Melissa Cloud API NuGet Package, please visit the [Melissa Docs](https://docs.melissa.com/cloud-api/cloud-api/cloud-api-packages-installation-guide.html).
 
 For more details about Melissa Cloud APIs, please click [here](https://docs.melissa.com/cloud-api/cloud-api/cloud-api-index.html).
 
